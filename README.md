@@ -58,6 +58,6 @@ Part IV: $31267.80
  ![Step 6](https://imgur.com/1mwvudb.png)
 - Go to the *app* folder and **DELETE** the existing *src* folder:
  ![Step 7](https://imgur.com/W17yGSX.png)
-- Unzip the downloaded file and copy it to the *src* folder here.  
+- Unzip the downloaded file and copy it to the *src* folder.  
 
 
