@@ -40,7 +40,7 @@ Part II: $3840.00
 Part III: $12075.00
 Part IV: $31267.80
 ```
-# Installation Instructions (For MAC Only): 
+# Installation Instructions (For MAC Only)
 
 
   - Create New Project (**File > New > New Project**):
